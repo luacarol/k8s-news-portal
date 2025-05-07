@@ -6,4 +6,4 @@ data:
   HOST_DB: svc-db-noticias:3306
   USER_DB: root
   PASS_DB: q1w2e3r4
-  DATABASE_DB: empresa
+  DATABASE_DB: empresa 

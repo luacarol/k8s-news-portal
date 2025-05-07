@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: sistema-noticias-container
-      image: nginx:latest
+      image: aluracursos/sistema-noticias:1
       ports:
         - containerPort: 80
       envFrom:
